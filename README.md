@@ -1,6 +1,6 @@
 ## Running code for Reframing the Epidemiological Transition — Increasing Returns to Tackling Ageing-Related Diseases**
 
-R scripts should be run in sequential order. If have donwloaded raw GBD and UN data and placed in relevant directory, run 1. clean_9023.R. Else, should skip.
+R scripts should be run in sequential order. If have downloaded raw GBD and UN data and placed in relevant directory, run 1. clean_9023.R. Else, should skip.
 
 
 Note: Owing to GBD data allowances, in places, we call aspects from 2021 release of GBD data, i.e. identifying all countries in GBD data. Relevant sections commented in code.
