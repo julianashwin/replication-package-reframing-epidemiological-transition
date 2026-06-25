@@ -1,0 +1,305 @@
+"","cause_name","cluster_4","daly_percent_condition","daly_percent_condcluster"
+"1","Acne vulgaris","Adult (early)",0.0418907953729416,0.261609153837685
+"2","Acute glomerulonephritis","Ageing-related",0.0116303324304437,0.0278015042461168
+"3","Acute hepatitis A","Infant",0.0834418873626762,0.310703571154793
+"4","Acute hepatitis B","Infant",0.0910776990600413,0.339136220966812
+"5","Acute hepatitis C","Infant",0.0115817294010838,0.043125638678624
+"6","Acute hepatitis E","Infant",0.0126186516978653,0.0469867145819016
+"7","Acute lymphoid leukemia","Infant",0.156503120478209,0.582753817852867
+"8","Acute myeloid leukemia","Ageing-related",0.150817785445681,0.360519471608782
+"9","Adverse effects of medical treatment","Infant",0.140683719971972,0.523848819582007
+"10","African trypanosomiasis","Adult (early)",0.00304249609399734,0.0190004706671009
+"11","Age-related and other hearing loss","Ageing-related",1.89833605938689,4.53784088556682
+"12","Age-related macular degeneration","Ageing-related",0.0184912274671477,0.0442019986976594
+"13","Alcohol use disorders","Adult (early)",0.644816083194921,4.02689393705125
+"14","Alcoholic cardiomyopathy","Adult (late)",0.0770721776936235,0.503805304846545
+"15","Alopecia areata","Adult (early)",0.00414033363853899,0.0258564959232911
+"16","Alzheimer's disease and other dementias","Ageing-related",1.42090828780842,3.39658286064495
+"17","Amphetamine use disorders","Adult (early)",0.0627496180116629,0.391873067234062
+"18","Anorexia nervosa","Adult (early)",0.0302667661851465,0.189016776134399
+"19","Anxiety disorders","Adult (early)",1.97952956056878,12.3622158215593
+"20","Aortic aneurysm","Ageing-related",0.122206784601852,0.29212685547313
+"21","Appendicitis","Ageing-related",0.0520174556914662,0.1243441254949
+"22","Asbestosis","Ageing-related",0.00207014478181796,0.00494853773836566
+"23","Ascariasis","Infant",0.0287129390258382,0.106915279311722
+"24","Asthma","Ageing-related",0.924064915699825,2.20891318723348
+"25","Atopic dermatitis","Ageing-related",0.395552813567928,0.945541607838002
+"26","Atrial fibrillation and flutter","Ageing-related",0.33126494181339,0.791865902500539
+"27","Attention-deficit/hyperactivity disorder","Adult (early)",0.133266030067169,0.832249974028875
+"28","Autism spectrum disorders","Infant",0.3514837626301,1.30878223999694
+"29","Benign and in situ cervical and uterine neoplasms","Adult (early)",0,0
+"30","Benign and in situ intestinal neoplasms","Adult (early)",0,0
+"31","Benign prostatic hyperplasia","Adult (late)",0.0847877529727594,0.554240466689561
+"32","Bipolar disorder","Adult (early)",0.272687732382613,1.70294228828635
+"33","Bladder cancer","Ageing-related",0.165383546869708,0.395337915578449
+"34","Brain and central nervous system cancer","Adult (late)",0.327523861352058,2.14095752515169
+"35","Breast cancer","Ageing-related",0.880032291665062,2.10365624884488
+"36","Bulimia nervosa","Adult (early)",0.106586160440122,0.665633464232552
+"37","Burkitt lymphoma","Infant",0.0133165251803144,0.0495853109231937
+"38","COVID-19","Ageing-related",1.14828022994596,2.74488436848203
+"39","Cannabis use disorders","Adult (early)",0.0224869470431695,0.140431594482358
+"40","Caries of deciduous teeth","Infant",0.00694732068757613,0.0258689899738894
+"41","Caries of permanent teeth","Adult (early)",0.0786775226648024,0.49134326400685
+"42","Cataract","Ageing-related",0.254550005530673,0.608484160012963
+"43","Cellulitis","Ageing-related",0.0404123858447288,0.0966030097056371
+"44","Cervical cancer","Adult (late)",0.474111750643263,3.09917303769036
+"45","Chagas disease","Ageing-related",0.0102021101877935,0.0243874378829319
+"46","Chlamydial infection","Adult (early)",0.0065768758815596,0.041072768348095
+"47","Chronic hepatitis B including cirrhosis","Adult (late)",0.467318183979851,3.05476486049494
+"48","Chronic hepatitis C including cirrhosis","Adult (late)",0.393365037824337,2.57134803670481
+"49","Chronic kidney disease due to diabetes mellitus type 1","Adult (late)",0.109403007637056,0.715145429428757
+"50","Chronic kidney disease due to diabetes mellitus type 2","Ageing-related",0.342257077430143,0.818141841460214
+"51","Chronic kidney disease due to glomerulonephritis","Ageing-related",0.263650729645593,0.630238810762362
+"52","Chronic kidney disease due to hypertension","Ageing-related",0.337897482664272,0.807720532084959
+"53","Chronic kidney disease due to other and unspecified causes","Ageing-related",0.596749530378977,1.42648842601195
+"54","Chronic lymphoid leukemia","Ageing-related",0.0351588230612673,0.0840447316937957
+"55","Chronic myeloid leukemia","Ageing-related",0.0284982192502453,0.0681230195465906
+"56","Chronic obstructive pulmonary disease","Ageing-related",2.67549283627291,6.39558034071247
+"57","Cirrhosis due to alcohol","Adult (late)",0.34588993158168,2.26101282769744
+"58","Cirrhosis due to other causes","Ageing-related",0.235117763432089,0.562032731006412
+"59","Coal workers pneumoconiosis","Ageing-related",0.00216341490190565,0.00517149350125221
+"60","Cocaine use disorders","Adult (early)",0.0519787423561634,0.324608656490832
+"61","Colon and rectum cancer","Ageing-related",0.935052365617014,2.23517792535284
+"62","Conduct disorder","Adult (early)",0.171971830931562,1.0739687507338
+"63","Conflict and terrorism","Adult (early)",0.472204335418548,2.94892888825706
+"64","Congenital heart anomalies","Infant",0.947514220136541,3.52815667551711
+"65","Congenital musculoskeletal and limb anomalies","Infant",0.127119711239401,0.473341980803695
+"66","Contact dermatitis","Adult (late)",0.133558873277531,0.873047458630646
+"67","Crohn's disease","Ageing-related",0.0147827686113581,0.0353371846227062
+"68","Cutaneous and mucocutaneous leishmaniasis","Adult (late)",0.02697064691027,0.176301687524022
+"69","Cyclist road injuries","Adult (late)",0.176474415113957,1.15357771331611
+"70","Cystic echinococcosis","Adult (late)",0.00346812947664614,0.022670463979553
+"71","Cysticercosis","Ageing-related",0.042286195328319,0.101082221510287
+"72","Decubitus ulcer","Ageing-related",0.0394227512685016,0.0942373567857717
+"73","Dengue","Infant",0.107818369581623,0.401471653193718
+"74","Diabetes mellitus type 1","Infant",0.112269701103754,0.418046597074226
+"75","Diabetes mellitus type 2","Ageing-related",3.11181425465097,7.43857647502387
+"76","Diarrheal diseases","Infant",2.01902934539209,7.51804216931277
+"77","Dietary iron deficiency","Infant",1.40655515095289,5.23743796119733
+"78","Digestive congenital anomalies","Infant",0.217132891399279,0.808514367366754
+"79","Diphtheria","Infant",0.0117931056568736,0.0439127176818319
+"80","Down syndrome","Infant",0.0869823658272861,0.323886869583431
+"81","Drowning","Infant",0.607815280048891,2.26325631026072
+"82","Drug-susceptible tuberculosis","Infant",1.41777150575281,5.27920309381625
+"83","Dysthymia","Adult (late)",0.304426646597704,1.98997568360206
+"84","Ebola","Adult (early)",1.25681919733357e-07,7.84886999194509e-07
+"85","Ectopic pregnancy","Adult (early)",0.0278462341996831,0.173900488202489
+"86","Edentulism","Ageing-related",0.359627865249959,0.859665506774104
+"87","Electrocution","Infant",0.0939731973304443,0.349917876096166
+"88","Encephalitis","Infant",0.152999659462132,0.569708357311381
+"89","Endocarditis","Ageing-related",0.0835441476442217,0.199706499307727
+"90","Endometriosis","Adult (early)",0.0681912142697489,0.425855983527021
+"91","Environmental heat and cold exposure","Ageing-related",0.113183964400033,0.270558428632963
+"92","Esophageal cancer","Adult (late)",0.501594603566976,3.2788229127766
+"93","Exposure to forces of nature","Infant",0.171129686852702,0.637217188108803
+"94","Extensively drug-resistant tuberculosis","Adult (late)",0.00870689093240411,0.0569151926380354
+"95","Falls","Ageing-related",2.65448892347334,6.34537194173723
+"96","Female infertility","Adult (early)",0.0223450237003497,0.139545279355268
+"97","Fire, heat, and hot substances","Infant",0.381415852384968,1.42023713960319
+"98","Food-borne trematodiases","Adult (late)",0.037047280048389,0.242170609123169
+"99","Foreign body in eyes","Adult (late)",0.0125408329481966,0.0819768995189362
+"100","Foreign body in other body part","Ageing-related",0.025509586881033,0.0609789008380622
+"101","Fungal skin diseases","Infant",0.0710730563797673,0.264647087069094
+"102","G6PD deficiency","Infant",0.0197468364684556,0.0735291686667102
+"103","G6PD trait","Infant",0.000541448278342007,0.00201613265224063
+"104","Gallbladder and biliary diseases","Ageing-related",0.291808185121245,0.697547258104507
+"105","Gallbladder and biliary tract cancer","Ageing-related",0.143085435732005,0.342035825102297
+"106","Gastritis and duodenitis","Ageing-related",0.104610373343791,0.250063852955088
+"107","Gastroesophageal reflux disease","Adult (late)",0.230060343498236,1.50385813607054
+"108","Genital herpes","Adult (late)",0.00775354250183896,0.0506833459320147
+"109","Genital prolapse","Ageing-related",0.0154942950201654,0.0370380392280224
+"110","Glaucoma","Ageing-related",0.0244616750840072,0.0584739402577173
+"111","Gonococcal infection","Adult (early)",0.00279659594377055,0.0174648175562759
+"112","Gout","Ageing-related",0.0639466267208219,0.152859982716414
+"113","Guinea worm disease","Adult (early)",8.35840175293157e-09,5.21984457576628e-08
+"114","HIV/AIDS - Drug-susceptible Tuberculosis","Adult (early)",0.356772768773474,2.2280556222488
+"115","HIV/AIDS - Extensively drug-resistant Tuberculosis","Adult (early)",0.00143078353006314,0.00893528197047525
+"116","HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance","Adult (early)",0.0341469541818419,0.213248655465157
+"117","HIV/AIDS resulting in other diseases","Adult (early)",1.22007852099099,7.61942347120376
+"118","Hemolytic disease and other neonatal jaundice","Infant",0.167083384579636,0.622150408030483
+"119","Hepatoblastoma","Infant",0.0110183009742522,0.0410276609142211
+"120","Hodgkin lymphoma","Adult (late)",0.0423240735907223,0.276663945872722
+"121","Hookworm disease","Infant",0.0162674592920557,0.0605733865257434
+"122","Hypertensive heart disease","Ageing-related",1.01506092109666,2.42643283643952
+"123","Idiopathic developmental intellectual disability","Adult (early)",0.130284380128667,0.813629489253938
+"124","Idiopathic epilepsy","Infant",0.551391359470045,2.05315663279054
+"125","Indirect maternal deaths","Adult (early)",0.0503877561761297,0.314672904624088
+"126","Inguinal, femoral, and abdominal hernia","Ageing-related",0.0858638169956998,0.205251508249681
+"127","Interstitial lung disease and pulmonary sarcoidosis","Ageing-related",0.159486024967025,0.381240297887847
+"128","Intracerebral hemorrhage","Ageing-related",2.79587084359805,6.6833356307529
+"129","Invasive Non-typhoidal Salmonella (iNTS)","Infant",0.208991729405435,0.778199999070613
+"130","Iodine deficiency","Adult (early)",0.0802392286713115,0.501096160395396
+"131","Ischemic heart disease","Ageing-related",6.87897741525043,16.4437191252091
+"132","Ischemic stroke","Ageing-related",2.3936750037234,5.72191432857444
+"133","Kidney cancer","Ageing-related",0.145202308304067,0.347096062387226
+"134","Klinefelter syndrome","Adult (early)",0.000238068761336048,0.00148674587469251
+"135","Larynx cancer","Adult (late)",0.127321406201839,0.832274392453234
+"136","Late maternal deaths","Adult (early)",0.0173076529879115,0.108086762563798
+"137","Latent tuberculosis infection","Adult (early)",0,0
+"138","Leprosy","Adult (late)",0.0006639635364798,0.00434019592949521
+"139","Lip and oral cavity cancer","Adult (late)",0.230676669496697,1.50788693500721
+"140","Liver cancer due to NASH","Adult (late)",0.0377822563842957,0.246975001422015
+"141","Liver cancer due to alcohol use","Adult (late)",0.0872048794928741,0.570040735992446
+"142","Liver cancer due to hepatitis B","Adult (late)",0.214983300495702,1.40530254216645
+"143","Liver cancer due to hepatitis C","Ageing-related",0.121302555838606,0.289965359234636
+"144","Liver cancer due to other causes","Adult (late)",0.0254878226139895,0.166608763709269
+"145","Low back pain","Adult (late)",2.51774206696146,16.4579728707398
+"146","Lower extremity peripheral arterial disease","Ageing-related",0.0665631707897313,0.15911465011109
+"147","Lower respiratory infections","Infant",3.52908551002547,13.1408757104171
+"148","Lymphatic filariasis","Adult (early)",0.0534315928571017,0.333681747293223
+"149","Major depressive disorder","Adult (early)",1.69864933245449,10.60811117512
+"150","Malaria","Infant",1.84402879536523,6.86641146480741
+"151","Male infertility","Adult (early)",0.011678052258047,0.0729297532429596
+"152","Malignant neoplasm of bone and articular cartilage","Adult (late)",0.107866782284923,0.705103433665758
+"153","Malignant skin melanoma","Ageing-related",0.0652383505056941,0.155947758969132
+"154","Maternal abortion and miscarriage","Adult (early)",0.0451136446642203,0.281735935115807
+"155","Maternal deaths aggravated by HIV/AIDS","Adult (early)",0.00343557007469472,0.0214552283428713
+"156","Maternal hemorrhage","Adult (early)",0.113822427361453,0.710824147517014
+"157","Maternal hypertensive disorders","Adult (early)",0.110281722677249,0.688712350684866
+"158","Maternal obstructed labor and uterine rupture","Adult (early)",0.0402973968091286,0.251658336568778
+"159","Maternal sepsis and other maternal infections","Adult (early)",0.0597347386978857,0.373045064108834
+"160","Measles","Infant",0.44612897762324,1.66120243590247
+"161","Meningitis","Infant",0.625051348319802,2.32743640174359
+"162","Mesothelioma","Ageing-related",0.02232317447982,0.0533620026597851
+"163","Migraine","Adult (early)",1.46156164440244,9.12749212970809
+"164","Motor neuron disease","Adult (late)",0.0435640177192538,0.284769210941924
+"165","Motor vehicle road injuries","Adult (early)",1.07000410199545,6.6822046522108
+"166","Motorcyclist road injuries","Adult (early)",0.64956360145324,4.05654231740142
+"167","Multidrug-resistant tuberculosis without extensive drug resistance","Adult (late)",0.132785733755432,0.867993601268935
+"168","Multiple myeloma","Ageing-related",0.100562992817548,0.240388870098068
+"169","Multiple sclerosis","Adult (late)",0.0381951411316633,0.24967394586914
+"170","Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms","Ageing-related",0.0436703622119837,0.104390976588758
+"171","Myocarditis","Ageing-related",0.0232098555579633,0.0554815523722617
+"172","Nasopharynx cancer","Adult (late)",0.092355896469866,0.603711896663151
+"173","Near vision loss","Adult (late)",0.20148136100166,1.31704308270423
+"174","Neck pain","Adult (late)",0.740732171733442,4.84201703853874
+"175","Neonatal encephalopathy due to birth asphyxia and trauma","Infant",1.96461165753144,7.31541288458912
+"176","Neonatal preterm birth","Infant",2.51042717784791,9.34780736551617
+"177","Neonatal sepsis and other neonatal infections","Infant",0.810927656879893,3.01956399722417
+"178","Neural tube defects","Infant",0.143610820539604,0.534748148782692
+"179","Neuroblastoma and other peripheral nervous cell tumors","Infant",0.0119068703601156,0.0443363310573903
+"180","Non-melanoma skin cancer (basal-cell carcinoma)","Ageing-related",9.33971877062551e-05,0.000223259509228986
+"181","Non-melanoma skin cancer (squamous-cell carcinoma)","Ageing-related",0.0475917550079376,0.11376479450148
+"182","Non-rheumatic calcific aortic valve disease","Ageing-related",0.0840854351318581,0.201000409561444
+"183","Non-rheumatic degenerative mitral valve disease","Ageing-related",0.0365557794675737,0.0873840592404364
+"184","Non-venomous animal contact","Infant",0.0315634153587928,0.117529291100451
+"185","Nonalcoholic fatty liver disease including cirrhosis","Adult (late)",0.0903539079029691,0.590625300560284
+"186","Onchocerciasis","Adult (early)",0.0311738908889153,0.194681794524847
+"187","Opioid use disorders","Adult (early)",0.457112634779937,2.85468080824593
+"188","Orofacial clefts","Infant",0.0198640823241874,0.0739657444349531
+"189","Osteoarthritis hand","Ageing-related",0.23232683501142,0.555361209895396
+"190","Osteoarthritis hip","Ageing-related",0.0427944483196202,0.102297165088235
+"191","Osteoarthritis knee","Adult (late)",0.449933525998454,2.94112485217978
+"192","Osteoarthritis other","Ageing-related",0.0742780728166225,0.17755658913061
+"193","Other benign and in situ neoplasms","Ageing-related",0.0761836291571431,0.182111689598205
+"194","Other cardiomyopathy","Ageing-related",0.328462255418717,0.785166274766937
+"195","Other cardiovascular and circulatory diseases","Ageing-related",0.412879681989235,0.986960286871282
+"196","Other chromosomal abnormalities","Infant",0.0847170325913793,0.315451692138407
+"197","Other chronic respiratory diseases","Infant",0.13038968870912,0.485518043804542
+"198","Other congenital birth defects","Infant",0.27453538942055,1.02225786828848
+"199","Other digestive diseases","Ageing-related",0.126275724298553,0.301853374034104
+"200","Other direct maternal disorders","Adult (early)",0.0886268221953481,0.553476909555747
+"201","Other drug use disorders","Adult (early)",0.0340455571945907,0.212615428528301
+"202","Other endocrine, metabolic, blood, and immune disorders","Ageing-related",0.26120953103724,0.624403294548044
+"203","Other exposure to mechanical forces","Adult (late)",0.339158178372188,2.21700871260234
+"204","Other eye cancers","Ageing-related",0.00736542095891895,0.017606528728948
+"205","Other gynecological diseases","Adult (early)",0.609545810508331,3.80663012704198
+"206","Other hemoglobinopathies and hemolytic anemias","Ageing-related",0.159812261811009,0.382020144470693
+"207","Other intestinal infectious diseases","Infant",0.00340165246391815,0.0126663669983048
+"208","Other leukemia","Ageing-related",0.0646820997269166,0.154618080004186
+"209","Other malignant neoplasms","Ageing-related",0.239115280485484,0.571588518684757
+"210","Other mental disorders","Adult (late)",0.337839229425131,2.20838700894437
+"211","Other musculoskeletal disorders","Adult (late)",1.6243468995416,10.6180285725572
+"212","Other neglected tropical diseases","Infant",0.183768577407338,0.684279263942392
+"213","Other neonatal disorders","Infant",0.625184157524013,2.32793092907674
+"214","Other neurological disorders","Ageing-related",0.210189593845718,0.502443667946675
+"215","Other non-Hodgkin lymphoma","Ageing-related",0.283952832216306,0.678769580987579
+"216","Other non-rheumatic valve diseases","Ageing-related",0.00183686415797787,0.00439089656232751
+"217","Other nutritional deficiencies","Ageing-related",0.060294780747913,0.144130497817407
+"218","Other oral disorders","Adult (early)",0.15854453972412,0.990114952785144
+"219","Other pharynx cancer","Adult (late)",0.119013444948893,0.777966922793661
+"220","Other pneumoconiosis","Ageing-related",0.00233268120326197,0.00557611287254068
+"221","Other road injuries","Infant",0.0426335322525446,0.158749893374701
+"222","Other sense organ diseases","Ageing-related",0.107498569954637,0.256967886938664
+"223","Other sexually transmitted infections","Adult (early)",0.0165739322666233,0.10350465674937
+"224","Other skin and subcutaneous diseases","Ageing-related",0.0488973834178811,0.116885808797501
+"225","Other transport injuries","Adult (early)",0.168626300644861,1.05307582331023
+"226","Other unintentional injuries","Adult (late)",0.456918417779492,2.98678368314022
+"227","Other unspecified infectious diseases","Infant",0.331025889871177,1.23260546205806
+"228","Other urinary diseases","Ageing-related",0.0754466967102458,0.180350103618265
+"229","Other vision loss","Ageing-related",0.160651220388221,0.384025616849593
+"230","Otitis media","Infant",0.0895399964407838,0.333410443299526
+"231","Ovarian cancer","Adult (late)",0.231596868080469,1.51390208784044
+"232","Pancreatic cancer","Ageing-related",0.438898303382441,1.04915599945881
+"233","Pancreatitis","Ageing-related",0.150209953208556,0.359066490739797
+"234","Paralytic ileus and intestinal obstruction","Ageing-related",0.257175808947258,0.614760961237027
+"235","Paratyphoid fever","Infant",0.0288195976770145,0.107312432646365
+"236","Parkinson's disease","Ageing-related",0.285104140340809,0.681521703328311
+"237","Pedestrian road injuries","Adult (late)",0.752164199977779,4.9167459049988
+"238","Peptic ulcer disease","Ageing-related",0.213871664576949,0.511245403037312
+"239","Periodontal diseases","Adult (late)",0.252297982264632,1.64922110248764
+"240","Pertussis","Infant",0.362195694967949,1.34866910900881
+"241","Physical violence by firearm","Adult (early)",0.38860592557002,2.4268545502564
+"242","Physical violence by other means","Infant",0.413100348763848,1.53821728706044
+"243","Physical violence by sharp object","Adult (early)",0.204404981502003,1.27651465614059
+"244","Poisoning by carbon monoxide","Adult (late)",0.048048952718343,0.314086327858163
+"245","Poisoning by other means","Infant",0.0835415088227826,0.311074520858797
+"246","Police conflict and executions","Adult (early)",0.0373361468828267,0.233165250423602
+"247","Polycystic ovarian syndrome","Adult (early)",0.0233387481377679,0.145751115432296
+"248","Premenstrual syndrome","Adult (early)",0.294804035484462,1.8410592012975
+"249","Prostate cancer","Ageing-related",0.318452747117901,0.761239238356675
+"250","Protein-energy malnutrition","Infant",0.502922611395073,1.87267877457958
+"251","Pruritus","Adult (late)",0.00406796423739079,0.0265914630162718
+"252","Psoriasis","Adult (late)",0.0946899275056353,0.618968987518576
+"253","Pulmonary Arterial Hypertension","Ageing-related",0.0250496328673642,0.0598794126213231
+"254","Pulmonary aspiration and foreign body in airway","Infant",0.197179808769021,0.734217222075418
+"255","Pyoderma","Ageing-related",0.0640126064946992,0.153017702796608
+"256","Rabies","Infant",0.03113647752057,0.115939548643879
+"257","Refraction disorders","Adult (late)",0.184614241545018,1.20678611950388
+"258","Retinoblastoma","Infant",0.0101027910785706,0.0376186752955296
+"259","Rheumatic heart disease","Ageing-related",0.517500601480465,1.23704934966148
+"260","Rheumatoid arthritis","Ageing-related",0.119312890123141,0.285209201131014
+"261","Scabies","Infant",0.114350256791205,0.42579373825846
+"262","Schistosomiasis","Adult (early)",0.0740574612258381,0.462490854952181
+"263","Schizophrenia","Adult (early)",0.606083432242597,3.78500748081861
+"264","Seborrhoeic dermatitis","Adult (late)",0.0128215863714277,0.0838121281086868
+"265","Self-harm by firearm","Adult (early)",0.105516777755756,0.658955140350297
+"266","Self-harm by other specified means","Adult (early)",1.15380454834329,7.20554071363206
+"267","Sickle cell disorders","Infant",0.153767723748862,0.572568315592604
+"268","Sickle cell trait","Infant",0.0845099925416167,0.314680759398671
+"269","Silicosis","Ageing-related",0.0124520431923161,0.0297657469169003
+"270","Soft tissue and other extraosseous sarcomas","Ageing-related",0.0795003537054984,0.190040089939792
+"271","Stomach cancer","Ageing-related",0.804196618967656,1.92237632506684
+"272","Subarachnoid hemorrhage","Ageing-related",0.402319097025944,0.961715939862774
+"273","Sudden infant death syndrome","Infant",0.0820726225341871,0.305604987152024
+"274","Syphilis","Infant",0.24425562261412,0.909508361082338
+"275","Tension-type headache","Adult (late)",0.165666484062806,1.08292844452769
+"276","Testicular cancer","Adult (early)",0.0210200513131829,0.131270790843433
+"277","Tetanus","Infant",0.0444419246017151,0.165483609242058
+"278","Thalassemias","Infant",0.0358156171110188,0.133362756898568
+"279","Thalassemias trait","Infant",0.075738172854913,0.282018078959303
+"280","Thyroid cancer","Ageing-related",0.055774341645232,0.13332470119387
+"281","Thyroid diseases","Ageing-related",0.258023168070013,0.616786514538287
+"282","Tracheal, bronchus, and lung cancer","Adult (late)",1.66755664800251,10.9004819966997
+"283","Trachoma","Ageing-related",0.00520089675636931,0.0124323835213282
+"284","Trichomoniasis","Adult (early)",0.00851735862243398,0.0531911357211022
+"285","Trichuriasis","Adult (early)",0.0100802352336681,0.0629513425679206
+"286","Turner syndrome","Infant",0.000334675898596737,0.00124619660652545
+"287","Typhoid fever","Infant",0.193507792409188,0.720544130150016
+"288","Ulcerative colitis","Ageing-related",0.0431563631683996,0.103162297470757
+"289","Unintentional firearm injuries","Adult (early)",0.0435871614327169,0.272203005912965
+"290","Upper respiratory infections","Infant",0.223720964674128,0.833045666432748
+"291","Urinary tract infections and interstitial nephritis","Ageing-related",0.220568603121566,0.527253970848908
+"292","Urogenital congenital anomalies","Infant",0.0555547592318828,0.20686327495166
+"293","Urolithiasis","Ageing-related",0.0353787362862097,0.084570419028494
+"294","Urticaria","Infant",0.179880126719598,0.669800258815279
+"295","Uterine cancer","Adult (late)",0.103678457792748,0.677725199902023
+"296","Uterine fibroids","Ageing-related",0.00803231603092315,0.0192006952144654
+"297","Varicella and herpes zoster","Ageing-related",0.0295833770750747,0.0707170141770218
+"298","Vascular intestinal disorders","Ageing-related",0.0615446760647365,0.147118286013978
+"299","Venomous animal contact","Infant",0.171079212183206,0.637029241016988
+"300","Viral skin diseases","Adult (early)",0.064823345711962,0.404823552994363
+"301","Visceral leishmaniasis","Infant",0.011887138481339,0.0442628575850701
+"302","Vitamin A deficiency","Infant",0.0385781347282229,0.143649246288635
+"303","Yellow fever","Infant",0.0110858772669945,0.041279287479056
+"304","Zika virus","Infant",3.73018674792411e-06,1.38896947358926e-05
