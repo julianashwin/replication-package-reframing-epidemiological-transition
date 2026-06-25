@@ -13,6 +13,3 @@ raw-data/
 # Large/generated intermediate data
 temp.rds
 output-data/
-
-# Generated outputs
-output/

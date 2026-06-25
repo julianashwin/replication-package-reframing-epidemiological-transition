@@ -1,0 +1,33 @@
+year,location_name,cluster_4,exp_loss,type,income_group
+2023,World Bank High Income,Ageing-related,7.860365041212037,Expected YLL,High Income
+2023,World Bank High Income,Adult (late),1.7434297380847925,Expected YLL,High Income
+2023,World Bank High Income,Adult (early),1.2454739974490232,Expected YLL,High Income
+2023,World Bank High Income,Infant,1.0382891076645036,Expected YLL,High Income
+2023,World Bank Low Income,Ageing-related,6.146222918665153,Expected YLL,Low Income
+2023,World Bank Low Income,Adult (late),1.6791576905698358,Expected YLL,Low Income
+2023,World Bank Low Income,Adult (early),2.1854415275423706,Expected YLL,Low Income
+2023,World Bank Low Income,Infant,7.460517594331556,Expected YLL,Low Income
+2023,World Bank Lower Middle Income,Ageing-related,6.966014167393795,Expected YLL,Lower Middle Income
+2023,World Bank Lower Middle Income,Adult (late),1.266976663051349,Expected YLL,Lower Middle Income
+2023,World Bank Lower Middle Income,Adult (early),1.0948784343585958,Expected YLL,Lower Middle Income
+2023,World Bank Lower Middle Income,Infant,4.802911420480619,Expected YLL,Lower Middle Income
+2023,World Bank Upper Middle Income,Ageing-related,6.5607368715196595,Expected YLL,Upper Middle Income
+2023,World Bank Upper Middle Income,Adult (late),1.4742052233459995,Expected YLL,Upper Middle Income
+2023,World Bank Upper Middle Income,Adult (early),0.8798331308650207,Expected YLL,Upper Middle Income
+2023,World Bank Upper Middle Income,Infant,1.8231063319172878,Expected YLL,Upper Middle Income
+2023,World Bank High Income,Ageing-related,5.493143199457364,Expected YLD,High Income
+2023,World Bank High Income,Adult (late),3.1358252377982705,Expected YLD,High Income
+2023,World Bank High Income,Adult (early),3.0037264464166333,Expected YLD,High Income
+2023,World Bank High Income,Infant,0.8389316877682175,Expected YLD,High Income
+2023,World Bank Low Income,Ageing-related,2.90032320332791,Expected YLD,Low Income
+2023,World Bank Low Income,Adult (late),1.9307172808281148,Expected YLD,Low Income
+2023,World Bank Low Income,Adult (early),2.7120549254424886,Expected YLD,Low Income
+2023,World Bank Low Income,Infant,1.574322738827125,Expected YLD,Low Income
+2023,World Bank Lower Middle Income,Ageing-related,3.564888567062079,Expected YLD,Lower Middle Income
+2023,World Bank Lower Middle Income,Adult (late),2.200642640339285,Expected YLD,Lower Middle Income
+2023,World Bank Lower Middle Income,Adult (early),2.2749154423382447,Expected YLD,Lower Middle Income
+2023,World Bank Lower Middle Income,Infant,1.6209140591032576,Expected YLD,Lower Middle Income
+2023,World Bank Upper Middle Income,Ageing-related,4.513300376325802,Expected YLD,Upper Middle Income
+2023,World Bank Upper Middle Income,Adult (late),2.469230029946757,Expected YLD,Upper Middle Income
+2023,World Bank Upper Middle Income,Adult (early),2.3101279111882014,Expected YLD,Upper Middle Income
+2023,World Bank Upper Middle Income,Infant,0.920159688866794,Expected YLD,Upper Middle Income
