@@ -10,6 +10,25 @@ code/renv/library/
 # Non-shareable raw data
 raw-data/
 
-# Large/generated intermediate data
+# Large generated data
 temp.rds
-output-data/
+
+# Default is to ignore all intermediary output data, specifying post-clustering gbd data and publicly available macro
+output-data/*
+
+# Keep post-clustering files/more aggregated data
+!output-data/cluster4_assignment_2023.rds
+!output-data/global_cluster4_assignment_2023.rds
+!output-data/nob_mortality_medium.csv
+!output-data/nob_disability_medium.csv
+!output-data/mortality_medium.csv
+!output-data/disability_medium.csv
+!output-data/perc_dalys_cluster.csv
+!output-data/wpp_fertility_rates.rds
+
+
+
+
+
+
+
